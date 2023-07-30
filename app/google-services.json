@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760946008128",
+    "project_id": "senportable-fc6e8",
+    "storage_bucket": "senportable-fc6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760946008128:android:119bde889b6484d36bffa5",
+        "android_client_info": {
+          "package_name": "com.example.senportable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760946008128-0ujgkk295oa63lmcki0p08lccvso8tef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1tqyPLTIzkfD1Inm1RSlyl_44tfaMck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760946008128-0ujgkk295oa63lmcki0p08lccvso8tef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

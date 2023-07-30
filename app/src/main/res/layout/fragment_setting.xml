@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        android:padding="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Parametre"/>
+
+            <Switch
+                android:id="@+id/s1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mode nuit"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nofication"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Application par defauls"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:id="@+id/s2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Localisation"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Recevoir des emails"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mode nuit"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Parametre"/>
+
+            <Switch
+                android:id="@+id/s3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nofication"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Application par defauls"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:id="@+id/s4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Localisation"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Recevoir des emails"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:id="@+id/s5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Application par defauls"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Localisation"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Recevoir des emails"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mode nuit"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Parametre"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nofication"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Application par defauls"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:id="@+id/s6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Localisation"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <Switch
+                android:id="@+id/s7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Recevoir des emails"
+                android:textColor="#444"
+                android:textSize="11pt"
+                android:background="#eee"
+                android:padding="8dp"
+                android:layout_margin="2dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Enregister"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Annuler"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

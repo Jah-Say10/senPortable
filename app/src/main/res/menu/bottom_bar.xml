@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Accueil"/>
+
+    <item
+        android:id="@+id/nav_coordonnee"
+        android:icon="@drawable/map"
+        android:title="Coordonnee"/>
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/coordonnee"
+        android:title="Votre position"/>
+
+    <item
+        android:id="@+id/nav_ip"
+        android:icon="@drawable/ip"
+        android:title="L'adresse IP"/>
+
+    <item
+        android:id="@+id/nav_imei"
+        android:icon="@drawable/imei"
+        android:title="Le numero IMEI"/>
+
+</menu>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Accueil"/>
+
+        <item
+            android:id="@+id/nav_coordonnee"
+            android:icon="@drawable/map"
+            android:title="Coordonnee"/>
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/coordonnee"
+            android:title="Votre position"/>
+
+        <item
+            android:id="@+id/nav_ip"
+            android:icon="@drawable/ip"
+            android:title="L'adresse IP"/>
+
+        <item
+            android:id="@+id/nav_imei"
+            android:icon="@drawable/imei"
+            android:title="Le numero IMEI"/>
+
+    </group>
+
+    <item
+        android:title="">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_historic"
+                android:icon="@drawable/historic"
+                android:title="Historique"/>
+
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/settings"
+                android:title="Paremetres"/>
+
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/exit"
+                android:title="Quitter"/>
+
+
+        </menu>
+
+    </item>
+
+</menu>
